@@ -2,10 +2,10 @@
 
 ## An enthusiastic android developer from Italy!
 
-### 🌍 I'm based in Palermo, Italy
-### 🌱 I’m currently learning a lot about Android development and Mobile apps
-### 📝 I regularly work on GitHub projects and coding
-### ⚡ 
+🌍 I'm based in Palermo, Italy <br>
+🌱 I’m currently learning a lot about Android development and Mobile apps <br>
+📝 I regularly work on GitHub projects and coding <br>
+⚡ 
 ## 💬 Ask me about
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aurelio-di-marco-43a585281/))
 &nbsp;
