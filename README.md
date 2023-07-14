@@ -7,7 +7,7 @@
 📝 I regularly work on GitHub projects and coding <br>
 ⚡ 
 ## 💬 Ask me about
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/aurelio-di-marco-43a585281/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/aurelio-di-marco-43a585281]
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/AurelioDM97)https://github.com/AurelioDM97)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/AurelioDM97)
 
