@@ -5,7 +5,7 @@
 🌍 I'm based in Palermo, Italy <br>
 🌱 I’m currently learning a lot about Android development and Mobile apps <br>
 📝 I regularly work on GitHub projects and coding <br>
-⚡ 
+⚡ Follower of fashion | Geek Culture | Pokemon lover | Chess and sudoku lover (ye, I love a lot of stuff!) <br>
 ## 💬 Ask me about
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aurelio-di-marco-43a585281)
 &nbsp;
